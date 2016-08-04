@@ -1,0 +1,39 @@
+_repo: Soldiers-of-Fortune_403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: First published in 1906, Real Soldiers of Fortune is a collection of
+  early biographies of famous (and infamous) soldiers. Here are portraits of Major-General
+  Henry Ronald Douglas MacIver; Major Frederick Russell Burnham; General William Walker;
+  Captain Philo Norton McGiffin; Winston Spencer Churchill; and Baron James Harden-Hickey.
+  Davis's legendary storytelling skills are evident in these compelling biographies.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mines and mineral resources -- Fiction'
+- !lcsh 'Soldiers of fortune -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'South America -- Fiction'
+- !lcsh 'Americans -- South America -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Mining engineers -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Revolutions -- Fiction'
+- GITenberg
+title: Soldiers of Fortune
+url: http://www.gutenberg.org/ebooks/403
