@@ -1,5 +1,8 @@
 _repo: Soldiers-of-Fortune_403
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -13,6 +16,8 @@ description: First published in 1906, Real Soldiers of Fortune is a collection o
   Henry Ronald Douglas MacIver; Major Frederick Russell Burnham; General William Walker;
   Captain Philo Norton McGiffin; Winston Spencer Churchill; and Baron James Harden-Hickey.
   Davis's legendary storytelling skills are evident in these compelling biographies.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/403#Soldiers-of-Fortune
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
